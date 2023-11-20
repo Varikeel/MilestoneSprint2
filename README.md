@@ -27,3 +27,5 @@ axios.post('http://localhost:3001/alert', { confirmed: true })
          // errors
      });
 ```
+# UML Diagram of Data Transfer
+![image](https://github.com/Varikeel/MilestoneSprint2/assets/122494717/391e302e-ac30-4978-9c1f-17ed9035758b)
